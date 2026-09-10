@@ -25,7 +25,7 @@
         header {
             background: rgba(255, 255, 255, 0.05);
             backdrop-filter: blur(10px);
-            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+            border-bottom: 1.5px solid rgba(255, 255, 255, 0.1);
             padding: 1.2rem 2rem;
             display: flex;
             justify-content: space-between;
