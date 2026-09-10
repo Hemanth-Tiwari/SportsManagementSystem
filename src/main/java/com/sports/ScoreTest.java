@@ -14,6 +14,6 @@ public class ScoreTest {
     }
 
     public static int calculateScore(int initial, int bonus) {
-        return initial + bonus + 1;
+        return initial + bonus;
     }
 }
